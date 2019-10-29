@@ -1,0 +1,10 @@
+Harnoor Singh 
+ML HW2
+
+A Method 2 is less overfitted and has more randomness so it generates better result.
+
+
+B is better as it has another dimension (2D) and with 2 features. This is also due  
+
+B is better because it makes a more accurate prediction. This is likely due to its larger data set. 
+
