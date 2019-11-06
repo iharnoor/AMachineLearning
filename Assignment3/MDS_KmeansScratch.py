@@ -1,3 +1,5 @@
+# a) Multidimensional scaling with 2 dimensions. An input distance matrix should be the matrix of pairwise Hamming distances between sequence
+
 import math
 import matplotlib.pyplot as plt
 import re
@@ -85,7 +87,6 @@ if __name__ == '__main__':
     totals = []
     n_samples = len(dnaList)
     dnaLength = len(dnaList[0])
-
 
     mappedMatrix = []
     for sequence in dnaList:
