@@ -1,4 +1,5 @@
 # PCA Question 2
+# b) Principal component analysis. Reduce the numerical data matrix built in 1) to 2 dimensions and plot sequences using 2 obtained features as coordina
 
 import re
 
@@ -10,7 +11,7 @@ from scipy import linalg as SPLA
 
 dataFile = 'HW3.fas'
 
-regex = re.compile('(?<=\n)\w+') #regex to split
+regex = re.compile('(?<=\n)\w+')  # regex to split
 
 
 def returnMappedMatrix(dnaList, n_samples):

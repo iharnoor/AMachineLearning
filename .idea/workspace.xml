@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f18179c-54e0-461d-919e-294c6cdca316" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assignment3/Kmeans-MDS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment3/Kmeans_PCA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment3/MDS_KmeansScratch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment3/MDS_Lib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment3/PCAKmeansScratch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment3/rough.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment3/HW2.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment3/HW3_2019.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3/HW3_2019.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment3/KMeans.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3/KMeans.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment3/MDS.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment3/PCA.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3/PCA.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment3/~$3_2019.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment3/~$HW2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3/PCAKmeansScratch.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3/PCAKmeansScratch.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +16,7 @@
         <entry file="file://$PROJECT_DIR$/Assignment3/MDS_KmeansScratch.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="217">
-              <caret line="82" column="62" selection-start-line="82" selection-end-line="83" />
+              <caret line="81" column="62" selection-start-line="81" selection-end-line="82" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -38,41 +25,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assignment3/HW3/MDS_KmeansScratch.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assignment3/HW3/PCAKmeansScratch.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assignment3/HW2/FVCharToNum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assignment3/PCAKmeansScratch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="92" column="28" selection-start-line="92" selection-start-column="28" selection-end-line="92" selection-end-column="28" />
+            <state relative-caret-position="30">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
               <folding>
-                <element signature="e#18#27#0" expanded="true" />
+                <element signature="e#160#169#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -170,15 +128,15 @@
         <option value="$PROJECT_DIR$/Assignment3/Kmeans-Scratch.py" />
         <option value="$PROJECT_DIR$/Assignment3/Kmeans-MDS.py" />
         <option value="$PROJECT_DIR$/Assignment3/MDS.py" />
-        <option value="$PROJECT_DIR$/Assignment3/PCAKmeansScratch.py" />
         <option value="$PROJECT_DIR$/Assignment3/MDS_KmeansScratch.py" />
         <option value="$PROJECT_DIR$/Assignment3/HW3/MDS_KmeansScratch.py" />
+        <option value="$PROJECT_DIR$/Assignment3/PCAKmeansScratch.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1680" />
-    <option name="height" value="1050" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -186,7 +144,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -199,22 +156,11 @@
               <item name="AMachineLearning" type="462c0819:PsiDirectoryNode" />
               <item name="Assignment3" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="AMachineLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AMachineLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="Assignment3" type="462c0819:PsiDirectoryNode" />
-              <item name="HW2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AMachineLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AMachineLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="Assignment3" type="462c0819:PsiDirectoryNode" />
-              <item name="HW3" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -377,10 +323,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13562387" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11848341" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -443,11 +389,6 @@
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Assignment3/__init__.py</url>
-          <line>48</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Carl HW3/MDS.py</url>
           <line>12</line>
           <option name="timeStamp" value="19" />
@@ -494,9 +435,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="666">
           <caret line="37" selection-start-line="37" selection-end-line="37" />
-          <folding>
-            <element signature="e#56#74#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -599,27 +537,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assignment3/Naman1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assignment3/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" selection-start-line="2" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assignment3/test2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment3/Naman1.py" />
+    <entry file="file://$PROJECT_DIR$/Assignment3/test.py" />
+    <entry file="file://$PROJECT_DIR$/Assignment3/test2.py" />
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/scipy/spatial/distance.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
@@ -740,9 +660,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
           <caret line="45" selection-start-line="45" selection-end-line="45" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -750,9 +667,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -766,33 +680,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assignment3/HW2/FVCharToNum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assignment3/PCAKmeansScratch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="92" column="28" selection-start-line="92" selection-start-column="28" selection-end-line="92" selection-end-column="28" />
-          <folding>
-            <element signature="e#18#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assignment3/HW3/PCAKmeansScratch.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assignment3/MDS_KmeansScratch.py">
+    <entry file="file://$PROJECT_DIR$/Assignment3/HW2/FVCharToNum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="82" column="62" selection-start-line="82" selection-end-line="83" />
+        <state relative-caret-position="495">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
@@ -801,10 +695,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assignment3/HW3/MDS_KmeansScratch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
+        <state relative-caret-position="1110">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment3/MDS_KmeansScratch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="81" column="62" selection-start-line="81" selection-end-line="82" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment3/PCAKmeansScratch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#160#169#0" expanded="true" />
           </folding>
         </state>
       </provider>
